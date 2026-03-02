@@ -56,7 +56,7 @@ sudo apt install tcpdump
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-packet-counter.git
+git clone https://github.com/mittalsukhansh/network-packet-counter.git
 cd network-packet-counter
 ```
 
