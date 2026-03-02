@@ -8,7 +8,6 @@
 # for a fixed duration using tcpdump.
 # ---------------------------------------
 
-echo $#
 
 echo "HI"
 echo "This is a basic network packet counter"
