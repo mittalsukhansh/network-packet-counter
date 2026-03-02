@@ -1,6 +1,13 @@
 #!/bin/bash
 
-# this is a testing script
+# ---------------------------------------
+# Network Packet Counter
+# Author: Your Name
+# Description:
+# Captures packets on a selected port
+# for a fixed duration using tcpdump.
+# ---------------------------------------
+
 echo $#
 
 echo "HI"
